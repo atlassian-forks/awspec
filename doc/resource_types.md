@@ -2594,7 +2594,7 @@ end
 
 ### be_updating
 
-### its(:active_operation_arn), its(:client_authentication), its(:cluster_arn), its(:cluster_name), its(:creation_time), its(:current_version), its(:enhanced_monitoring), its(:number_of_broker_nodes), its(:state), its(:state_info), its(:zookeeper_connect_string), its(:zookeeper_connect_string_tls), its(:storage_mode), its(:customer_action_status)
+### its(:active_operation_arn), its(:client_authentication), its(:cluster_arn), its(:cluster_name), its(:creation_time), its(:current_version), its(:enhanced_monitoring), its(:number_of_broker_nodes), its(:state), its(:state_info), its(:zookeeper_connect_string), its(:zookeeper_connect_string_tls), its(:storage_mode), its(:rebalancing), its(:customer_action_status)
 ## <a name="nat_gateway">nat_gateway</a>
 
 NatGateway resource type.
